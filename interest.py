@@ -7,7 +7,7 @@ rate = 0.12
 #the principal is going to be input by the banker
 principal = int(input("Enter the principal amount"))
 
-#the time is going to be input by the banker
+#the time is going to be input by the banker coz it changes
 time = int(input("Enter the time in years"))
 
 #we now calculate the simple interest
